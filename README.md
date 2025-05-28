@@ -40,7 +40,3 @@ This project highlights:
 - Effective DOM manipulation.
 - Event listeners and dynamic updates.
 - Storing and retrieving data using local storage.
-
-## License
-
-This project is licensed under the MIT License.
